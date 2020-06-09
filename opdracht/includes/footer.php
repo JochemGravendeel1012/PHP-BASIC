@@ -1,5 +1,5 @@
 <div>
-    <header>
+    <footer>
         Dit is mijn prachtige footer.
-    </header>
+    </footer>
 </div>
